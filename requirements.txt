@@ -1,0 +1,9 @@
+streamlit
+cohere
+sqlalchemy
+psycopg2-binary
+qdrant-client
+python-dotenv
+pandas
+requests
+dateparser
